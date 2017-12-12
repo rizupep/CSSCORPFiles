@@ -1,0 +1,1 @@
+We still remember we have seen the shade swatch being displayed, but we could not find the relevant screen shot. So, we assume that this could have been broken due to a recent fix.

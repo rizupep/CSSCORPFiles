@@ -1,0 +1,128 @@
+Bugzilla 
+1hjx6tub
+
+file://HDC0005986/folder
+
+EFT 
+
+https://sso1.csscorp.com/?redirectpage=http://eft.csscorp.com:8080/effortless/&logouturl=https://sso1.csscorp.com/DominoLogoutServlet&appid=Effortless 
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+
+http://dev.perlgem.esteeonline.com/PerlGemURLListing.html
+============================================================================= 
+https://www.esteeonline.com/testlink/index.php
+ 
+https://www.esteeonline.com/bugzilla/intl/query.cgi?format=advanced
+ 
+shared/debug_magic_js.tmpl.
+
+Signin page:--->/account/signin.tmpl
+
+/shared/admin/protected/data/dbv.tmpl
+
+Offers Url ---> /shared/offers/offers2.tmpl
+--------------------------------------------------------------------------------------------------
+Product status change:
+1./shared/prodcat/product_info.tmpl? 
+2.shared/admin/protected/tools/qa_tools/inventory_change.tmpl 
+/shared/prodcat/show_cache_info.tmpl
+============================================
+
+To akamai bypass
+
+shared/tools/akamai.tmpl
+
+============================== 
+to clear magic js 
+
+shared/debug_magic_js.tmpl
+==============================================
+Test Link
+
+https://www.esteeonline.com/testlink/index.php
+
+Mohammed Rizwan :
+sujithas/srisai123$
+
+
+ajayabalan
+password!23
+
+==================================================
+
+Bugzilla Link
+
+https://www.esteeonline.com/bugzilla/intl/ 
+
+anandhi.jayabalan@csscorp.com
+n3wpass0rd5! 
+
+=============================================================================
+ 
+https://bumble.uk.dev.emea.perlgem.esteeonline.com
+ 
+=============================================================================
+
+  
+ Paypal-->csspavi6@gmail.com / tester123
+
+FOR UK: PO address
+    Sample addresses – PO BOX
+            John Smith 
+            Your Company
+            PO Box 7169
+            Poole
+            dorset
+            BH15 2EL 
+
+Paypal-->csspavi6@gmail.com / tester123
+csscorptestmail@gmail.com/csscorptest
+css.divya@yahoo.co.in/ammananna@3
+--------------------------------------------------------
+go to gmail. login using qa@arasutst.co.cc / pass123$
+
+mails to be sent to xyz@arasucss.cu.cc 
+
+Product status change:
+1.shared/prodcat/product_info.tmpl? 
+2.shared/admin/protected/tools/qa_tools/inventory_change.tmpl 
+/shared/prodcat/show_cache_info.tmpl  
+================================================================
+
+DE82330600980000273112
+
+shared/prodcat/showcpsinfo.tmpl  
+
+1="Active (shoppable)"
+2="Temporarily Out Of Stock (shoppable as backorder item in NA, not shoppable in international markets)"
+3="Coming Soon (shoppable or not, depending on brand) "
+4="Do Not Display (not displayed, except on dev)"
+5="Inactive (not shoppable, remove from cart)"
+6="Promotional (not shoppable, but not removed from cart)"
+7="Sold Out (not shoppable, remove from cart)"
+8="Promotional Sold Out (not shoppable, remove from cart)"
+9="Promotional Inactive (not shoppable, remove from cart)"  
+
+shared/tools/drupal_includes.tmpl
+
+Cl, BB, SB,AV : Deepak’s brand
+EL, OR, GG, JM, LM : Lovedeep’s brands 
+
+PO Address : PO box 867,flagstaff,Arizona,86002.
+
+China pay Card details: 
+China Payment
+123456789001
+label=2019
+label=06
+789001
+captcha 
+
+TH card details
+Credit Card with Installments& Points Redemption
+4938-1701-0000-1213   12/19  713 (Y)
+5430-4501-0000-1219   12/18   214
+3560-5001-0000-1218   12/18   023 
+
